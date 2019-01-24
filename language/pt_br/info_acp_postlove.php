@@ -3,7 +3,7 @@
 /**
 *
 * Post Love [Brazilian Portuguese [pt_br]]
-* Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 1.2.1] (https://github.com/phpBBTraducoes)
+* Brazilian Portuguese translation by eunaumtenhoid [2017][ver 1.2.1] (https://github.com/phpBBTraducoes)
 * @package language
 * @version $Id$
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
@@ -23,7 +23,7 @@ $lang = array_merge($lang, array(
 	'POSTLOVE_CONTROL'	=> 'Curtir Post',
 	'POSTLOVE_USE_CSS'	=> 'Use CSS fornecido',
 	'POSTLOVE_USE_CSS_EXPLAIN'	=> 'Para uma personalização mais fácil da extensão POST LOVE, você pode impedi-lo de carregar o CSS padrão. Se você quiser usar suas próprias imagens, consulte <code>global_header_head_append.html</code>.',
-	'POSTLOVE_SHOW_LIKES'	=> 'Mostra o número de postagens que este usuário curtiu',
+	'POSTLOVE_SHOW_LIKES'	=> 'Mostra o número de posts que este usuário curtiu',
 	'POSTLOVE_SHOW_LIKES_EXPLAIN'	=> 'Mostre em <code>viewtopic</code> o número de postagens que o usuário curtiu.',
 	'POSTLOVE_SHOW_LIKED'	=> 'Mostra o número de curtidas nas postagens do usuário',
 	'POSTLOVE_SHOW_LIKED_EXPLAIN'	=> 'Mostrar em <code>viewtopic</code> quantos posts do usuário foram curtidos por outros.',
@@ -46,7 +46,7 @@ $lang = array_merge($lang, array(
 	'POSTLOVE_NO_WRITE_ACTION'	=> 'Sem acesso de gravação!<br>Permita o acesso de gravação a pasta <i>$phpbb_root_path/ext/anavaro/postlove/styles</i>',
 
 	'POSTLOVE_AUTHOR_LIKE'	=> 'O autor pode curtir posts',
-	'POSTLOVE_AUTHOR_LIKE_EXPLAIN'	=> 'O autor pode curtir suas próprios posts ou não',
+	'POSTLOVE_AUTHOR_LIKE_EXPLAIN'	=> 'O autor pode curtir seus próprios posts ou não',
 
 	'POSTLOVE_CLEAN_LOVES'	=> 'Limpar post loves',
 	'POSTLOVE_CLEAN_LOVES_EXPLAIN'	=> 'Se você instalou o Post Love antes da postagem automática e usou limpeza love - por favor, pressione Limpar para limpar os Post Loves desnecessários ',
